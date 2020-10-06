@@ -7,7 +7,6 @@ const Home = () => {
 				<title>Evius — Building Web 3.0</title>
 				<link rel="icon" href="/favicon.ico"></link>
 				<meta name="title" content="Evius — Building Web 3.0" />
-				favicex
 				<meta
 					name="description"
 					content="We create projects that leverage the blockchain and decentralized technology."
