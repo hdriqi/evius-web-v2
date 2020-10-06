@@ -18,7 +18,7 @@ const Home = () => {
 					property="og:description"
 					content="We create projects that leverage the blockchain and decentralized technology."
 				/>
-				<meta property="og:image" content="/preview.png" />
+				<meta property="og:image" content="https://evius.id/preview.png" />
 				<meta property="twitter:card" content="summary_large_image" />
 				<meta property="twitter:url" content="https://evius.id/" />
 				<meta property="twitter:title" content="Evius — Building Web 3.0" />
@@ -26,7 +26,7 @@ const Home = () => {
 					property="twitter:description"
 					content="We create projects that leverage the blockchain and decentralized technology."
 				/>
-				<meta property="twitter:image" content="/preview.png" />
+				<meta property="twitter:image" content="https://evius.id/preview.png" />
 			</Head>
 			<div className="m-auto max-w-2xl">
 				<div className="flex items-center min-h-screen p-4 relative">
